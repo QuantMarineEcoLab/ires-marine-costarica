@@ -1,17 +1,13 @@
 # site properties and page defaults
-title: QuantMarineEcoLab
+title: NSF IRES Marine Research in Costa Rica
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+description: summer marine research program in Costa Rica
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
   email: contact@QuantMarineEcoLab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: QuantMarineEcoLab
-  twitter: QuantMarineEcoLab
   youtube: QuantMarineEcoLab
 
 ### jekyll settings
